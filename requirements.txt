@@ -10,6 +10,7 @@ tqdm
 PyYAML
 matplotlib
 torch
+pywinpty --only-binary :all:
 notebook
 boto3
 mypy-boto3-s3
